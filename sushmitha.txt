@@ -1,1 +1,2 @@
 This is our first git programming notepad
+changes are made
